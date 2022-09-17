@@ -53,7 +53,7 @@ arguments_count = 0
 Write-Output Hello World!
 ```
 ### 7. Заполните данные (всё без пробелов):
-- **{plugin_name}** - название плагина равное **{main_folder}**
+- **{plugin_name}** - название плагина, такое же как для **{main_folder}**
 - **{plugin_version}** - версия в формате x.x.x.x, где x - число (например: 1.0.0.4)
 - **{author}** - автор плагина
 - **{call_command}** - команда для вызова плагина

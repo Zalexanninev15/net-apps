@@ -56,7 +56,7 @@ Write-Output Hello World!
 - **{plugin_name}** - название плагина, такое же как для **{main_folder}**
 - **{plugin_version}** - версия в формате x.x.x.x, где x - число (например: 1.0.0.4)
 - **{author}** - автор плагина
-- **{call_command}** - команда для вызова плагина
+- **{call_command}** - команда для вызова плагина (обязательно начинается с **/**), например: /hello
 
 Должно получиться что-то похожее: ```#app HelloWorld, Version="1.0.0.0", Author=Разраб, Command=/hello```
 

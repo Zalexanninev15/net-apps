@@ -49,6 +49,7 @@ arguments_count = 0
 
 # Write-Output Arguments: $arg0 $arg1 $arg2 $arg3 # Вывод аргументов
 # Write-Output - вывод текста в бота по окончании работы плагина
+# Вывод текста будет нормально работать в боте, только если текст написан на английском языке!
 
 Write-Output Hello World!
 ```

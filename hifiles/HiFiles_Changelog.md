@@ -2,7 +2,7 @@
 
 ## Версия 17.1 "Tiger cub Yonki"
 
-<a href="https://ibb.co/rQnfVVk"><img src="https://i.ibb.co/wdDrffy/7vthxct.png" alt="7vthxct" border="0"></a>
+![alt](https://i.ibb.co/wdDrffy/7vthxct.png)
 
 * Двойной клик по ссылке в текстовом поле теперь позволяет быстро скопировать её
 * Добавлены новые компоненты, которые помогут вам быстрее отреагировать на некоторые действия приложения
